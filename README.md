@@ -55,5 +55,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khanhlanbui03&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhlanbui03&show_icons=true&layout=compact&theme=radical" height="165"/>
 </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhanhLanBui03&repo=ecommerce_backend&theme=radical)](https://github.com/KhanhLanBui03/ecommerce_backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhanhLanBui03&repo=ecommerce-full-stack&theme=radical)](https://github.com/KhanhLanBui03/ecommerce-full-stack)
+
 
 
