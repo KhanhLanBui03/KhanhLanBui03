@@ -56,5 +56,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhlanbui03&show_icons=true&layout=compact&theme=radical" height="165"/>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhlanbui03)](https://github.com/KhanhLanBui03/KhanhLanBui03)
 
