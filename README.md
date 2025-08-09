@@ -25,70 +25,28 @@
 
 ### 🛠 Languages & Tools
 
-<table align="center" style="border-collapse: collapse; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px;">
-<tr>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br><b>HTML5</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br><b>CSS3</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br><b>JavaScript</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br><b>TypeScript</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br><b>React</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/><br><b>Next.js</b>
-</td>
-</tr>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />
+</p>
 
-<tr>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br><b>Java</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/><br><b>Spring</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br><b>C</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br><b>MongoDB</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/><br><b>MySQL</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/><br><b>MariaDB</b>
-</td>
-</tr>
 
-<tr>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40"/><br><b>Bootstrap</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br><b>Tailwind</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br><b>Git</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/><br><b>Docker</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/><br><b>Postman</b>
-</td>
-<td align="center" width="90" style="border: 2px solid #ddd; border-radius: 10px; padding: 10px; background: #f9f9f9;">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br><b>Figma</b>
-</td>
-</tr>
-</table>
 
 
 
