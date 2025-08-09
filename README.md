@@ -1,14 +1,13 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Khanh Lan</h1>
+<!-- Banner -->>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Khanh+Lan;Full+Stack+Developer;Software+Engineer+from+Vietnam" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">💻 A Passionate Software Engineer from Vietnam</h3>
 
 <!-- Coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<!-- Profile views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=khanhlanbui03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ---
 
@@ -25,31 +24,76 @@
 ---
 
 ### 🛠 Languages & Tools:
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br>HTML5
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br>CSS3
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br>JavaScript
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br>TypeScript
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br>React
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/><br>Next.js
+</td>
+</tr>
+
+<tr>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br>Java
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/><br>Spring
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br>C
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br>MongoDB
+</td>
+<td align="center" width="80">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/><br>MySQL
+</td>
+<td align="center" width="80">
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40" height="40"/><br>MariaDB
+</td>
+</tr>
+
+<tr>
+<td align="center" width="80">
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40"/><br>Bootstrap
+</td>
+<td align="center" width="80">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br>Tailwind
+</td>
+<td align="center" width="80">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br>Git
+</td>
+<td align="center" width="80">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/><br>Docker
+</td>
+<td align="center" width="80">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/><br>Postman
+</td>
+<td align="center" width="80">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/><br>Figma
+</td>
+</tr>
+</table>
+
 
 ---
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khanhlanbui03&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanhlanbui03&show_icons=true&theme=radical" height="165"/>
@@ -63,3 +107,4 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=ecommerce_backend&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=ecommerce-full-stack&theme=vision-friendly-dark" />
 </p>
+ From [KhanhLanBui03](https://github.com/KhanhLanBui03)
