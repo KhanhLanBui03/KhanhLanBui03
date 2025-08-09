@@ -14,9 +14,6 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://dev.to/khanhlandev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-  </a>
   <a href="https://www.facebook.com/khanh.lan.bui.2024" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
