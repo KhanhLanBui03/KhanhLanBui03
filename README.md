@@ -56,6 +56,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhlanbui03&show_icons=true&layout=compact&theme=radical" height="165"/>
 </p>
 
+---
 
-
-
+### 📦 Featured Repositories:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=ecommerce_backend&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=ecommerce-full-stack&theme=vision-friendly-dark" />
+</p>
