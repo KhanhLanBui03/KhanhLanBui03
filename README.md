@@ -54,6 +54,7 @@
 ### 📦 Featured Repositories
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=portfolio&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=bookstore-fullstack&theme=ambient_gradient" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=ecommerce-full-stack&theme=vision-friendly-dark" />
 </p>
 
