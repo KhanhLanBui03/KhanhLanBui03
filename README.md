@@ -30,7 +30,7 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,spring,c,mongodb,mysql,bootstrap,tailwind,git,docker,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,java,spring,postgres,mysql,bootstrap,tailwind,git,docker,postman,figma" />
 </p>
 
 
