@@ -1,65 +1,73 @@
-<!-- Banner -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Khanh+Lan;Back+End+Developer;Software+Engineer+from+Vietnam" alt="Typing SVG" />
-</h1>
+<!-- Title -->
+<h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7">Khanh Lan</span></h1>
+<h3 align="center">Backend Developer • Java & Spring Boot</h3>
 
-<h3 align="center">💻 A Passionate Software Engineer from Vietnam</h3>
+<br/>
 
-<!-- Coding GIF -->
 <p align="center">
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF"/>
 </p>
 
 ---
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://github.com/KhanhLanBui03" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://www.facebook.com/khanh.lan.bui.2024" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
-  </a>
-  <a href="https://instagram.com/klan14_10" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-</p>
-
+## 🚀 About Me
+- 💻 Backend Developer focusing on **Java Spring Boot**
+- 🧠 Interested in **System Design**, **Database Design**, **API Architecture**
+- ✨ Love clean code, scalable systems, and real-world projects
+- 🎯 Goal: Become a high–level backend engineer
+- 🌍 From Vietnam
 
 ---
 
-### 🛠 Languages & Tools
+## 🔗 Connect with Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,java,spring,postgres,mysql,bootstrap,tailwind,git,docker,postman,figma" />
-</p>
-
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khanhlanbui03&theme=dracula&no-frame=true&row=1&column=7" />
+  <a href="https://github.com/KhanhLanBui03"><img height="35" src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://www.facebook.com/khanh.lan.bui.2024"><img height="35" src="https://cdn-icons-png.flaticon.com/512/124/124010.png"/></a>
+  <a href="https://instagram.com/klan14_10"><img height="35" src="https://skillicons.dev/icons?i=instagram"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanhlanbui03&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khanhlanbui03&show_icons=true&layout=compact&theme=radical" height="165"/>
+## 🛠 Tech Stack
+### 🔹 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" height="40" />
+</p>
+
+### 🔹 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" height="40" />
+</p>
+
+### 🔹 Frontend (basic)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,bootstrap,tailwind" height="40" />
+</p>
+
+### 🔹 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,idea,vscode" height="40" />
 </p>
 
 ---
 
-### 📦 Featured Repositories
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=portfolio&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=bookstore-fullstack&theme=ambient_gradient" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=ecommerce-full-stack&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khanhlanbui03&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhlanbui03&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=portfolio&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=bookstore-fullstack&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanhlanbui03&repo=ecommerce-full-stack&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <sub>✨ From <a href="https://github.com/KhanhLanBui03">KhanhLanBui03</a> ✨</sub>
+  <sub>✨ Made by <a href="https://github.com/KhanhLanBui03">Khanh Lan</a></sub>
 </p>
