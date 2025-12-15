@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#4FC3F7">Khanh Lan</span>
+  👋 Hi, I'm <span style="color:#4FC3F7">Bui Khanh Lan</span>
 </h1>
 
 <h3 align="center">
