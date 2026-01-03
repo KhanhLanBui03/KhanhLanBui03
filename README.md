@@ -54,7 +54,7 @@
 
 - Spring Boot APIs  
 - Spring Security & JWT  
-- Microservices architecture  
+- Microservices architecture (basics)
 
 ### Database
 <p align="center">
